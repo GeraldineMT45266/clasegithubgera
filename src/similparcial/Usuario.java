@@ -1,7 +1,7 @@
 package similparcial;
 import java.util.ArrayList;
 
-
+//hola
 public class Usuario {
 	private String nombre;
 	private String email;
